@@ -98,6 +98,7 @@ py demo.py
 sostuire la variabile video_path  con il video percorso del video che si desidera usare
 
 ## Riferimenti
+Dataset NTU RGB+D 120
 ```bibitex
 @inproceedings{shahroudy2016ntu,
   title={NTU RGB+D: A large scale dataset for 3D human activity analysis},
