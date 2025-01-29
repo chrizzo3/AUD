@@ -96,3 +96,24 @@ Per provare il modello è possibile eseguire:
 py demo.py
 ```
 sostuire la variabile video_path  con il video percorso del video che si desidera usare
+
+## Riferimenti
+```bibitex
+@inproceedings{shahroudy2016ntu,
+  title={NTU RGB+D: A large scale dataset for 3D human activity analysis},
+  author={Shahroudy, Amir and Liu, Jun and Ng, Tian-Tsong and Wang, Gang},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1010--1019},
+  year={2016}
+}
+
+@article{liu2020ntu,
+  title={NTU RGB+D 120: A large-scale benchmark for 3D human activity understanding},
+  author={Liu, Jun and Shahroudy, Amir and Perez, Mauricio and Wang, Gang and Duan, Ling-Yu and Kot, Alex C},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={42},
+  number={10},
+  pages={2684--2701},
+  year={2020}
+}
+```
