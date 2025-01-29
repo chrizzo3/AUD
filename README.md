@@ -32,7 +32,10 @@ Assicurarsi di aver intallato Python dopo di che eseguire:
 pip install -r requirements.txt
 ```
 ### 3. Preparare i dati
-Nella cartella dataset sono presenti tutti gli scheletri necessari all'addestramento del modello. Utilizzare il file parseSkeleton.py per trasformare estrarre i file dalle cartelle .zip e trasformarli in file json. 
+È possibile scaricare le cartelle contenenti i scheletri dai sequenti link:
+https://drive.google.com/open?id=1CUZnBtYwifVXS21yVg62T-vrPVayso5H
+https://drive.google.com/open?id=1tEbuaEqMxAV7dNc4fqu1O4M7mC6CJ50w
+Utilizzare il file parseSkeleton.py per trasformare estrarre i file direttamente dalle cartelle .zip e trasformarli in file json. 
 ```bash
 py parseSkeleton.py
 ```
