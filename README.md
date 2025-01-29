@@ -42,7 +42,7 @@ I file json hanno la sequente struttura
 "action_label": 
 "action_name": 
 "frames":[
-    "frame_index": i
+    "frame_index":
     "num bodie": 
     "bodies"[
         "body_id": 
