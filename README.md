@@ -37,6 +37,7 @@ Nella cartella dataset sono presenti tutti gli scheletri necessari all'addestram
 py parseSkeleton.py
 ```
 I file json hanno la sequente struttura
+```json
 filename: il nome del file 
 action_label: l'identificativo dell'azione contenuta nel file
 action_name: il nome dell'azione
@@ -61,7 +62,7 @@ frames:[
         ]  per tutti e 25 i joints
     ]  per ogni scheletro contenuto nel frame
 ]  per ogni frame del video
-
+```
 ### 5. Generare le sequenze
 Eseguire 
 ```bash
