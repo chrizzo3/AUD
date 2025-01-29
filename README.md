@@ -64,7 +64,7 @@ I file json hanno la sequente struttura
 ]
 ```
 ### 5. Generare le sequenze
-Eseguire 
+Eseguire:
 ```bash
 py generateSequences.py
 ```
@@ -83,8 +83,8 @@ Per avviare l'addestramento del modello eseguire:
 py trainEnhanced.py
 ```
 
-###8 8. Valutazione del modello
-E' possibile valutare il modello tramite:
+### 8. Valutazione del modello
+È possibile valutare il modello tramite:
 ```bash
 py valutazioneEnhanced.py
 ```
