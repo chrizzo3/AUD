@@ -44,7 +44,7 @@ I file json hanno la sequente struttura
 "frames":[
     "frame_index":
     "num bodie": 
-    "bodies"[
+    "bodies":[
         "body_id": 
         "joints":[
             "3D_position": {
@@ -95,4 +95,4 @@ Per provare il modello è possibile eseguire:
 ```bash
 py demo.py
 ```
-sostuire il path del video in ingresso con il video che si desidera usare
+sostuire la variabile video_path  con il video percorso del video che si desidera usare
