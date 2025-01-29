@@ -1,0 +1,14 @@
+numpy>=1.21.0
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+tqdm>=4.65.0
+scikit-learn>=1.0.2
+matplotlib>=3.7.0
+pathlib>=1.0.1
+typing>=3.7.4
+logging>=0.5.1.2
+concurrent.futures>=3.0.5
+zipfile>=3.0.0
+json>=2.0.9
