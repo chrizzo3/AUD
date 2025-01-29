@@ -5,8 +5,8 @@ from tqdm import tqdm  # Per la barra di progresso
 
 # Path delle cartelle zip
 zip_paths = [
-    r"C:/Users/chris/Desktop/Università/FIA/ProgettoFIABuono/nturgbd_skeletons_s001_to_s017.zip",
-    r"C:/Users/chris/Desktop/Università/FIA/ProgettoFIABuono/nturgbd_skeletons_s018_to_s032.zip"
+    r"nturgbd_skeletons_s001_to_s017.zip",
+    r"nturgbd_skeletons_s018_to_s032.zip"
 ]
 
 # Pose rilevanti (label delle azioni) e nomi associati
