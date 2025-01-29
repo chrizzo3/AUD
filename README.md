@@ -38,15 +38,15 @@ py parseSkeleton.py
 ```
 I file json hanno la sequente struttura
 ```json
-filename: il nome del file 
-action_label: l'identificativo dell'azione contenuta nel file
-action_name: il nome dell'azione
-frames:[
-    frame_index: il numero del frame attuale
-    num bodie: il numero di scheletri rilevato in quel frame
-    bodies[
-        body_id: identificativo del corpo
-        joints:[
+"filename" : 
+"action_label": 
+"action_name": 
+"frames":[
+    "frame_index": i
+    "num bodie": 
+    "bodies"[
+        "body_id": 
+        "joints":[
             "3D_position": {
                                 "x": 
                                 "y": 
@@ -59,9 +59,9 @@ frames:[
                                 "z": 
                             }
                             "tracking_state": 
-        ]  per tutti e 25 i joints
-    ]  per ogni scheletro contenuto nel frame
-]  per ogni frame del video
+        ]  
+    ]  
+]
 ```
 ### 5. Generare le sequenze
 Eseguire 
