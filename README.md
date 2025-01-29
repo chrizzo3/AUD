@@ -13,7 +13,7 @@ Il repository è organizzato nei seguenti file:
 - **`augmentSkeleton.py`** – Permette di generare file aggiuntivi per il dataset, usando data augmentation, in modo da rendere piu robbusto il modello. 
 - **`CNN_GRUModel.py`** – Definizione dell'architettura del modello basato su CNN-GRU per il riconoscimento delle azioni.
 - **`dataLoader.py`** – Gestisce il caricamento e la preparazione dei dati scheletrici per l'addestramento e la valutazione.
-  - **`trainEnhanced.py`** – Script per l'addestramento del modello con configurazioni ottimizzate.
+- **`trainEnhanced.py`** – Script per l'addestramento del modello con configurazioni ottimizzate.
 - **`valutazioneEnhanced.py`** – Valutazione del modello addestrato tramite metriche di classificazione.
 - **`demo.py`** – Script per testare il modello su nuovi video e visualizzare i risultati con sovraimpressione delle azioni riconosciute.
   
