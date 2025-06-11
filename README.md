@@ -2,7 +2,7 @@
 
 ## Descrizione del progetto
 
-**AUD** (Are You Dangerous) è un progetto che si occupa del riconoscimento e della classificazione delle azioni umane utilizzando dati scheletrici. Attraverso l'uso di tecniche avanzate di deep learning, il sistema è in grado di analizzare pose e movimenti per identificare le azioni svolte da una persoma all'interno di un video.
+**AUD** (Are You Dangerous) è un progetto che si occupa del riconoscimento e della classificazione delle azioni umane utilizzando dati scheletrici. Attraverso l'uso di tecniche avanzate di deep learning, il sistema è in grado di analizzare pose e movimenti per identificare le azioni svolte da una persona all'interno di un video.
 
 ## Struttura del repository
 
